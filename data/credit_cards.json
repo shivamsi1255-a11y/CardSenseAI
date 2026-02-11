@@ -1,0 +1,1899 @@
+[
+  {
+    "id": "sbi-cashback",
+    "card_name": "SBI Cashback Credit Card",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "min_income_req": 25000,
+    "short_description": "A cashback-focused credit card that rewards users on both online and offline spends with simple and transparent benefits.",
+    "key_features": [
+      "5% cashback on online transactions",
+      "1% cashback on offline transactions",
+      "1% fuel surcharge waiver across India"
+    ],
+    "ideal_for": "Frequent online shoppers",
+    "primary_tags": [
+      "Cashback",
+      "Online Shopping"
+    ],
+    "best_feature": "5% cashback on online transactions",
+    "airport_lounge": false,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "amazon-pay-icici",
+    "card_name": "Amazon Pay ICICI Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A lifetime free credit card offering high cashback benefits on Amazon purchases and everyday spends.",
+    "key_features": [
+      "5% cashback for Amazon Prime members on Amazon",
+      "3% cashback for non-Prime members on Amazon",
+      "1% cashback on all other transactions"
+    ],
+    "ideal_for": "Amazon Prime and frequent Amazon shoppers",
+    "primary_tags": [
+      "Cashback",
+      "Online Shopping",
+      "Amazon"
+    ],
+    "best_feature": "5% cashback for Amazon Prime members on Amazon",
+    "airport_lounge": false,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "axis-ace",
+    "card_name": "Axis Bank ACE Credit Card",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "min_income_req": 25000,
+    "short_description": "A cashback credit card designed for digital payments and utility bill spends via Google Pay.",
+    "key_features": [
+      "5% cashback on utility bill payments via Google Pay",
+      "4% cashback on Swiggy and Zomato",
+      "1% cashback on all other spends"
+    ],
+    "ideal_for": "Users paying bills and ordering food online",
+    "primary_tags": [
+      "Cashback",
+      "Online Shopping",
+      "Food Delivery"
+    ],
+    "best_feature": "5% cashback on utility bill payments via Google Pay",
+    "airport_lounge": false,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "swiggy-hdfc",
+    "card_name": "Swiggy HDFC Bank Credit Card",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income_req": 25000,
+    "short_description": "A co-branded card that provides high cashback on Swiggy food delivery and dining spends.",
+    "key_features": [
+      "10% cashback on Swiggy orders",
+      "5% cashback on select partner brands",
+      "1% cashback on all other spends"
+    ],
+    "ideal_for": "Frequent Swiggy users and food delivery customers",
+    "primary_tags": [
+      "Cashback",
+      "Food Delivery",
+      "Dining"
+    ],
+    "best_feature": "10% cashback on Swiggy orders",
+    "airport_lounge": false,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "hdfc-millennia",
+    "card_name": "HDFC Millennia Credit Card",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "min_income_req": 25000,
+    "short_description": "A lifestyle cashback card offering rewards on popular e-commerce platforms and dining spends.",
+    "key_features": [
+      "5% cashback on Amazon, Flipkart, Swiggy, Zomato",
+      "1% cashback on all other spends",
+      "Dining discounts via Swiggy Dineout"
+    ],
+    "ideal_for": "Young professionals and online shoppers",
+    "primary_tags": [
+      "Cashback",
+      "Online Shopping",
+      "Dining"
+    ],
+    "best_feature": "5% cashback on Amazon, Flipkart, Swiggy, Zomato",
+    "airport_lounge": false,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "icici-coral",
+    "card_name": "ICICI Bank Coral Credit Card",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "min_income_req": 25000,
+    "short_description": "An entry-level rewards credit card with benefits across movies, dining, and everyday spending.",
+    "key_features": [
+      "Reward points on all spends",
+      "Discounts on movie tickets",
+      "Fuel surcharge waiver"
+    ],
+    "ideal_for": "First-time credit card users",
+    "primary_tags": [
+      "Rewards",
+      "Movies",
+      "Dining"
+    ],
+    "best_feature": "Reward points on all spends",
+    "airport_lounge": false,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "hdfc-regalia",
+    "card_name": "HDFC Regalia Credit Card",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "min_income_req": 25000,
+    "short_description": "A premium travel and lifestyle credit card with lounge access and accelerated reward points.",
+    "key_features": [
+      "Domestic and international lounge access",
+      "Accelerated reward points on travel and dining",
+      "Premium concierge services"
+    ],
+    "ideal_for": "Frequent travelers and business professionals",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Premium"
+    ],
+    "best_feature": "Domestic and international lounge access",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "axis-magnus",
+    "card_name": "Axis Bank Magnus Credit Card",
+    "joining_fee": 10000,
+    "annual_fee": 10000,
+    "min_income_req": 500000,
+    "short_description": "A super-premium credit card offering high reward acceleration and luxury travel benefits.",
+    "key_features": [
+      "High reward rate on monthly milestones",
+      "Unlimited domestic lounge access",
+      "International travel and concierge benefits"
+    ],
+    "ideal_for": "High-income and luxury lifestyle users",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Luxury"
+    ],
+    "best_feature": "High reward rate on monthly milestones",
+    "airport_lounge": true,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "indianoil-axis",
+    "card_name": "IndianOil Axis Bank Credit Card",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income_req": 25000,
+    "short_description": "A fuel-focused credit card offering savings on fuel purchases at IndianOil outlets.",
+    "key_features": [
+      "Fuel surcharge waiver at IndianOil pumps",
+      "Reward points on fuel and grocery spends",
+      "Discounts on fuel transactions"
+    ],
+    "ideal_for": "Daily commuters and high fuel spenders",
+    "primary_tags": [
+      "Fuel",
+      "Groceries"
+    ],
+    "best_feature": "Fuel surcharge waiver at IndianOil pumps",
+    "airport_lounge": false,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "amex-gold",
+    "card_name": "American Express Gold Card",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "min_income_req": 500000,
+    "short_description": "A premium rewards card offering Membership Rewards points and exclusive lifestyle benefits.",
+    "key_features": [
+      "Membership Rewards points on all spends",
+      "Exclusive Amex dining and lifestyle offers",
+      "Travel and hotel privileges"
+    ],
+    "ideal_for": "Premium spenders and brand-conscious users",
+    "primary_tags": [
+      "Rewards",
+      "Lifestyle",
+      "Travel"
+    ],
+    "best_feature": "Membership Rewards points on all spends",
+    "airport_lounge": false,
+    "source": "https://www.americanexpress.com/in"
+  },
+  {
+    "id": "idfc-millennia",
+    "card_name": "IDFC First Millennia Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A lifetime free credit card offering rewards, dining discounts, and low forex markup.",
+    "key_features": [
+      "Lifetime free credit card",
+      "Reward points on all spends",
+      "Dining discounts via partner programs"
+    ],
+    "ideal_for": "Young professionals and first-time card users",
+    "primary_tags": [
+      "Rewards",
+      "Dining",
+      "Low Forex"
+    ],
+    "best_feature": "Lifetime free credit card",
+    "airport_lounge": false,
+    "source": "https://www.idfcfirstbank.com"
+  },
+  {
+    "id": "idfc-wealth",
+    "card_name": "IDFC First Wealth Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 500000,
+    "short_description": "A premium lifetime free credit card offering travel and lifestyle benefits.",
+    "key_features": [
+      "Complimentary airport lounge access",
+      "Low forex markup",
+      "Premium concierge services"
+    ],
+    "ideal_for": "Frequent travelers seeking premium benefits",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Premium"
+    ],
+    "best_feature": "Complimentary airport lounge access",
+    "airport_lounge": true,
+    "source": "https://www.idfcfirstbank.com"
+  },
+  {
+    "id": "kotak-league-platinum",
+    "card_name": "Kotak League Platinum Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 199,
+    "min_income_req": 25000,
+    "short_description": "A lifestyle-focused credit card offering discounts on entertainment and dining.",
+    "key_features": [
+      "Movie ticket discounts",
+      "Dining benefits across partner restaurants",
+      "Reward points on everyday spends"
+    ],
+    "ideal_for": "Entertainment and dining spenders",
+    "primary_tags": [
+      "Entertainment",
+      "Dining",
+      "Rewards"
+    ],
+    "best_feature": "Movie ticket discounts",
+    "airport_lounge": false,
+    "source": "https://cards.kotak.com"
+  },
+  {
+    "id": "kotak-royale-signature",
+    "card_name": "Kotak Royale Signature Credit Card",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "min_income_req": 500000,
+    "short_description": "A rewards-based credit card with accelerated points on lifestyle categories.",
+    "key_features": [
+      "Accelerated reward points on dining and entertainment",
+      "Fuel surcharge waiver",
+      "Milestone-based benefits"
+    ],
+    "ideal_for": "Lifestyle and rewards-focused users",
+    "primary_tags": [
+      "Rewards",
+      "Lifestyle",
+      "Dining"
+    ],
+    "best_feature": "Accelerated reward points on dining and entertainment",
+    "airport_lounge": false,
+    "source": "https://cards.kotak.com"
+  },
+  {
+    "id": "rbl-shoprite",
+    "card_name": "RBL Bank ShopRite Credit Card",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income_req": 25000,
+    "short_description": "A shopping-focused credit card offering cashback on groceries and retail spends.",
+    "key_features": [
+      "Cashback on grocery and shopping spends",
+      "Fuel surcharge waiver",
+      "Reward points on other transactions"
+    ],
+    "ideal_for": "Household and grocery shoppers",
+    "primary_tags": [
+      "Cashback",
+      "Groceries",
+      "Shopping"
+    ],
+    "best_feature": "Cashback on grocery and shopping spends",
+    "airport_lounge": false,
+    "source": "https://www.rblbank.com"
+  },
+  {
+    "id": "rbl-world-safari",
+    "card_name": "RBL Bank World Safari Credit Card",
+    "joining_fee": 3000,
+    "annual_fee": 3000,
+    "min_income_req": 500000,
+    "short_description": "A travel-centric credit card with zero forex markup and global benefits.",
+    "key_features": [
+      "Zero forex markup",
+      "International lounge access",
+      "Travel insurance coverage"
+    ],
+    "ideal_for": "International travelers",
+    "primary_tags": [
+      "Travel",
+      "International",
+      "Zero Forex"
+    ],
+    "best_feature": "Zero forex markup",
+    "airport_lounge": true,
+    "source": "https://www.rblbank.com"
+  },
+  {
+    "id": "sc-manhattan",
+    "card_name": "Standard Chartered Manhattan Credit Card",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "min_income_req": 25000,
+    "short_description": "A cashback credit card offering benefits on groceries and supermarket spends.",
+    "key_features": [
+      "5% cashback on grocery and supermarket purchases",
+      "Fuel surcharge waiver",
+      "EMI conversion options"
+    ],
+    "ideal_for": "Grocery and supermarket shoppers",
+    "primary_tags": [
+      "Cashback",
+      "Groceries",
+      "Supermarket"
+    ],
+    "best_feature": "5% cashback on grocery and supermarket purchases",
+    "airport_lounge": false,
+    "source": "https://www.sc.com/in"
+  },
+  {
+    "id": "sc-ultimate",
+    "card_name": "Standard Chartered Ultimate Credit Card",
+    "joining_fee": 5000,
+    "annual_fee": 5000,
+    "min_income_req": 500000,
+    "short_description": "A premium rewards credit card with high reward acceleration on travel and dining.",
+    "key_features": [
+      "High reward points on travel and dining",
+      "Airport lounge access",
+      "Premium concierge services"
+    ],
+    "ideal_for": "Premium lifestyle and travel users",
+    "primary_tags": [
+      "Travel",
+      "Dining",
+      "Premium"
+    ],
+    "best_feature": "High reward points on travel and dining",
+    "airport_lounge": true,
+    "source": "https://www.sc.com/in"
+  },
+  {
+    "id": "yes-prosperity-rewards",
+    "card_name": "Yes Bank Prosperity Rewards Plus Credit Card",
+    "joining_fee": 399,
+    "annual_fee": 399,
+    "min_income_req": 25000,
+    "short_description": "A rewards-based credit card offering points on everyday spending.",
+    "key_features": [
+      "Reward points on all spends",
+      "Fuel surcharge waiver",
+      "Dining and shopping offers"
+    ],
+    "ideal_for": "Everyday spenders",
+    "primary_tags": [
+      "Rewards",
+      "Everyday Spending"
+    ],
+    "best_feature": "Reward points on all spends",
+    "airport_lounge": false,
+    "source": "https://www.yesbank.in"
+  },
+  {
+    "id": "yes-marquee",
+    "card_name": "Yes Bank Marquee Credit Card",
+    "joining_fee": 10000,
+    "annual_fee": 10000,
+    "min_income_req": 1000000,
+    "short_description": "A super-premium credit card with luxury travel and lifestyle benefits.",
+    "key_features": [
+      "Unlimited lounge access",
+      "Luxury hotel and dining privileges",
+      "Premium concierge services"
+    ],
+    "ideal_for": "High-income luxury spenders",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Luxury"
+    ],
+    "best_feature": "Unlimited lounge access",
+    "airport_lounge": true,
+    "source": "https://www.yesbank.in"
+  },
+  {
+    "id": "federal-celesta",
+    "card_name": "Federal Bank Celesta Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A lifetime free credit card offering rewards and basic lifestyle benefits.",
+    "key_features": [
+      "Lifetime free",
+      "Reward points on all transactions",
+      "Fuel surcharge waiver"
+    ],
+    "ideal_for": "Conservative and first-time users",
+    "primary_tags": [
+      "Rewards",
+      "Lifestyle",
+      "Lifetime Free"
+    ],
+    "best_feature": "Lifetime free",
+    "airport_lounge": false,
+    "source": "https://www.federalbank.co.in"
+  },
+  {
+    "id": "federal-signet",
+    "card_name": "Federal Bank Signet Credit Card",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income_req": 25000,
+    "short_description": "A rewards-based credit card offering benefits across shopping and travel categories.",
+    "key_features": [
+      "Reward points on all spends",
+      "Airport lounge access",
+      "Fuel surcharge waiver"
+    ],
+    "ideal_for": "Rewards and travel users",
+    "primary_tags": [
+      "Rewards",
+      "Travel",
+      "Shopping"
+    ],
+    "best_feature": "Reward points on all spends",
+    "airport_lounge": true,
+    "source": "https://www.federalbank.co.in"
+  },
+  {
+    "id": "indusind-legend",
+    "card_name": "IndusInd Legend Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A lifetime free credit card with travel, dining, and lifestyle privileges.",
+    "key_features": [
+      "Complimentary lounge access",
+      "Dining and entertainment offers",
+      "No joining or annual fee"
+    ],
+    "ideal_for": "Lifestyle-focused users seeking free cards",
+    "primary_tags": [
+      "Travel",
+      "Dining",
+      "Lifestyle"
+    ],
+    "best_feature": "Complimentary lounge access",
+    "airport_lounge": true,
+    "source": "https://www.indusind.com"
+  },
+  {
+    "id": "indusind-pinnacle",
+    "card_name": "IndusInd Pinnacle Credit Card",
+    "joining_fee": 15000,
+    "annual_fee": 15000,
+    "min_income_req": 1000000,
+    "short_description": "A premium metal credit card offering luxury travel and lifestyle privileges.",
+    "key_features": [
+      "Unlimited airport lounge access",
+      "Luxury hotel and dining privileges",
+      "Metal card design"
+    ],
+    "ideal_for": "Ultra-premium and luxury users",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Luxury"
+    ],
+    "best_feature": "Unlimited airport lounge access",
+    "airport_lounge": true,
+    "source": "https://www.indusind.com"
+  },
+  {
+    "id": "bob-select",
+    "card_name": "Bank of Baroda Select Credit Card",
+    "joining_fee": 750,
+    "annual_fee": 750,
+    "min_income_req": 25000,
+    "short_description": "A rewards credit card offering benefits on shopping, dining, and travel spends.",
+    "key_features": [
+      "Reward points on all spends",
+      "Dining discounts",
+      "Fuel surcharge waiver"
+    ],
+    "ideal_for": "Mid-level rewards seekers",
+    "primary_tags": [
+      "Rewards",
+      "Shopping",
+      "Dining"
+    ],
+    "best_feature": "Reward points on all spends",
+    "airport_lounge": false,
+    "source": "https://www.bankofbaroda.in"
+  },
+  {
+    "id": "bob-premier",
+    "card_name": "Bank of Baroda Premier Credit Card",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "min_income_req": 500000,
+    "short_description": "A premium card offering travel and lifestyle privileges with accelerated rewards.",
+    "key_features": [
+      "Airport lounge access",
+      "Accelerated reward points",
+      "Travel insurance benefits"
+    ],
+    "ideal_for": "Frequent travelers",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Premium"
+    ],
+    "best_feature": "Airport lounge access",
+    "airport_lounge": true,
+    "source": "https://www.bankofbaroda.in"
+  },
+  {
+    "id": "au-zenith",
+    "card_name": "AU Bank Zenith Credit Card",
+    "joining_fee": 7999,
+    "annual_fee": 7999,
+    "min_income_req": 1000000,
+    "short_description": "A premium credit card offering high rewards and travel privileges.",
+    "key_features": [
+      "Airport lounge access",
+      "High reward points on spends",
+      "Travel and lifestyle offers"
+    ],
+    "ideal_for": "Premium rewards users",
+    "primary_tags": [
+      "Travel",
+      "Rewards",
+      "Premium"
+    ],
+    "best_feature": "Airport lounge access",
+    "airport_lounge": true,
+    "source": "https://www.aubank.in"
+  },
+  {
+    "id": "au-lit",
+    "card_name": "AU Bank LIT Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A customizable credit card where users can activate benefits as needed.",
+    "key_features": [
+      "Customizable benefit packs",
+      "Pay only for activated features",
+      "Digital-first experience"
+    ],
+    "ideal_for": "Users wanting flexible card benefits",
+    "primary_tags": [
+      "Customizable",
+      "Digital",
+      "Flexible"
+    ],
+    "best_feature": "Customizable benefit packs",
+    "airport_lounge": false,
+    "source": "https://www.aubank.in"
+  },
+  {
+    "id": "onecard",
+    "card_name": "OneCard Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A metal lifetime free credit card with app-based controls and rewards.",
+    "key_features": [
+      "Lifetime free metal card",
+      "Reward points via OneCard app",
+      "Smart spend tracking"
+    ],
+    "ideal_for": "Digital-first and tech-savvy users",
+    "primary_tags": [
+      "Metal",
+      "Lifetime Free",
+      "Digital"
+    ],
+    "best_feature": "Lifetime free metal card",
+    "airport_lounge": false,
+    "source": "https://www.getonecard.app"
+  },
+  {
+    "id": "slice",
+    "card_name": "Slice Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A beginner-friendly credit card alternative offering flexible repayment options.",
+    "key_features": [
+      "No annual or joining fee",
+      "Flexible EMI repayment",
+      "Easy approval for new credit users"
+    ],
+    "ideal_for": "Students and new-to-credit users",
+    "primary_tags": [
+      "Beginner",
+      "Flexible",
+      "No Fees"
+    ],
+    "best_feature": "No annual or joining fee",
+    "airport_lounge": false,
+    "source": "https://www.sliceit.com"
+  },
+  {
+    "id": "hdfc-diners-privilege",
+    "card_name": "HDFC Diners Club Privilege Credit Card",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "min_income_req": 500000,
+    "short_description": "A premium Diners Club card offering travel, dining, and milestone benefits.",
+    "key_features": [
+      "Airport lounge access",
+      "Reward points on dining and travel",
+      "Milestone-based vouchers"
+    ],
+    "ideal_for": "Frequent travelers and dining enthusiasts",
+    "primary_tags": [
+      "Travel",
+      "Dining",
+      "Premium"
+    ],
+    "best_feature": "Airport lounge access",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "hdfc-tata-neu-plus",
+    "card_name": "HDFC Tata Neu Plus Credit Card",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "min_income_req": 25000,
+    "short_description": "A co-branded credit card offering NeuCoins on Tata ecosystem spends.",
+    "key_features": [
+      "NeuCoins on Tata brands",
+      "Extra rewards via Tata Neu app",
+      "Fuel surcharge waiver"
+    ],
+    "ideal_for": "Tata ecosystem users",
+    "primary_tags": [
+      "Rewards",
+      "Tata",
+      "NeuCoins"
+    ],
+    "best_feature": "NeuCoins on Tata brands",
+    "airport_lounge": false,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "hdfc-tata-neu-infinity",
+    "card_name": "HDFC Tata Neu Infinity Credit Card",
+    "joining_fee": 1499,
+    "annual_fee": 1499,
+    "min_income_req": 500000,
+    "short_description": "A premium Tata Neu co-branded card with accelerated NeuCoins and travel benefits.",
+    "key_features": [
+      "High NeuCoins earning rate",
+      "Airport lounge access",
+      "Premium Tata partner benefits"
+    ],
+    "ideal_for": "High spenders in Tata brands",
+    "primary_tags": [
+      "Travel",
+      "Tata",
+      "NeuCoins"
+    ],
+    "best_feature": "High NeuCoins earning rate",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "icici-hpcl-supersaver",
+    "card_name": "ICICI HPCL Super Saver Credit Card",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income_req": 25000,
+    "short_description": "A fuel-focused credit card providing savings on HPCL fuel purchases.",
+    "key_features": [
+      "Fuel surcharge waiver at HPCL pumps",
+      "Reward points on fuel spends",
+      "Grocery and utility benefits"
+    ],
+    "ideal_for": "Daily commuters and fuel spenders",
+    "primary_tags": [
+      "Fuel",
+      "Groceries",
+      "Utility"
+    ],
+    "best_feature": "Fuel surcharge waiver at HPCL pumps",
+    "airport_lounge": false,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "icici-makemytrip-platinum",
+    "card_name": "ICICI MakeMyTrip Platinum Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "A travel co-branded card offering MyCash benefits on MakeMyTrip bookings.",
+    "key_features": [
+      "MyCash rewards on travel bookings",
+      "Zero joining and annual fee",
+      "Travel discounts on flights and hotels"
+    ],
+    "ideal_for": "Frequent MakeMyTrip users",
+    "primary_tags": [
+      "Travel",
+      "MakeMyTrip",
+      "MyCash"
+    ],
+    "best_feature": "MyCash rewards on travel bookings",
+    "airport_lounge": false,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "axis-flipkart",
+    "card_name": "Axis Bank Flipkart Credit Card",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income_req": 25000,
+    "short_description": "A cashback credit card designed for Flipkart and partner merchant shoppers.",
+    "key_features": [
+      "5% cashback on Flipkart purchases",
+      "4% cashback on partner merchants",
+      "1% cashback on all other spends"
+    ],
+    "ideal_for": "Frequent Flipkart shoppers",
+    "primary_tags": [
+      "Cashback",
+      "Flipkart",
+      "Shopping"
+    ],
+    "best_feature": "5% cashback on Flipkart purchases",
+    "airport_lounge": false,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "axis-myzone",
+    "card_name": "Axis Bank My Zone Credit Card",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income_req": 25000,
+    "short_description": "A youth-focused lifestyle credit card with entertainment and dining offers.",
+    "key_features": [
+      "Movie ticket discounts",
+      "Dining benefits via partner apps",
+      "Reward points on spends"
+    ],
+    "ideal_for": "Students and young professionals",
+    "primary_tags": [
+      "Entertainment",
+      "Dining",
+      "Youth"
+    ],
+    "best_feature": "Movie ticket discounts",
+    "airport_lounge": false,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "axis-atlas",
+    "card_name": "Axis Bank Atlas Credit Card",
+    "joining_fee": 5000,
+    "annual_fee": 5000,
+    "min_income_req": 500000,
+    "short_description": "A travel-focused credit card offering accelerated points for flights and hotels.",
+    "key_features": [
+      "Accelerated travel reward points",
+      "Airport lounge access",
+      "Air miles conversion options"
+    ],
+    "ideal_for": "Frequent flyers",
+    "primary_tags": [
+      "Travel",
+      "Flights",
+      "Hotels"
+    ],
+    "best_feature": "Accelerated travel reward points",
+    "airport_lounge": true,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "sbi-simplyclick",
+    "card_name": "SBI SimplyCLICK Credit Card",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "min_income_req": 25000,
+    "short_description": "An online shopping-focused credit card with accelerated rewards on partner merchants.",
+    "key_features": [
+      "10X rewards on online partners",
+      "Reward points on all online spends",
+      "Amazon and food delivery offers"
+    ],
+    "ideal_for": "Online shoppers",
+    "primary_tags": [
+      "Online Shopping",
+      "Rewards",
+      "Amazon"
+    ],
+    "best_feature": "10X rewards on online partners",
+    "airport_lounge": false,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "sbi-simplysave",
+    "card_name": "SBI SimplySAVE Credit Card",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "min_income_req": 25000,
+    "short_description": "A basic rewards credit card suitable for everyday offline spending.",
+    "key_features": [
+      "Extra rewards on groceries and dining",
+      "Fuel surcharge waiver",
+      "Reward points on all transactions"
+    ],
+    "ideal_for": "Offline and everyday spenders",
+    "primary_tags": [
+      "Rewards",
+      "Groceries",
+      "Dining"
+    ],
+    "best_feature": "Extra rewards on groceries and dining",
+    "airport_lounge": false,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "sbi-bpcl-octane",
+    "card_name": "SBI BPCL Octane Credit Card",
+    "joining_fee": 1499,
+    "annual_fee": 1499,
+    "min_income_req": 500000,
+    "short_description": "A premium fuel credit card offering high savings at BPCL outlets.",
+    "key_features": [
+      "High reward points on BPCL fuel",
+      "Fuel surcharge waiver",
+      "Dining and grocery rewards"
+    ],
+    "ideal_for": "High fuel spenders",
+    "primary_tags": [
+      "Fuel",
+      "BPCL",
+      "Rewards"
+    ],
+    "best_feature": "High reward points on BPCL fuel",
+    "airport_lounge": false,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "hsbc-cashback",
+    "card_name": "HSBC Cashback Credit Card",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "min_income_req": 25000,
+    "short_description": "A cashback credit card offering benefits on all spends.",
+    "key_features": [
+      "Cashback on all spends",
+      "Fuel surcharge waiver",
+      "Reward points on other transactions"
+    ],
+    "ideal_for": "Cashback enthusiasts",
+    "primary_tags": [
+      "Cashback",
+      "All Spends",
+      "Fuel"
+    ],
+    "best_feature": "Cashback on all spends",
+    "airport_lounge": false,
+    "source": "https://www.hsbc.co.in"
+  },
+  {
+    "id": "flipkart-axis",
+    "card_name": "Flipkart Axis Bank Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 15000,
+    "short_description": "Unlimited 5% cashback on Flipkart and Myntra spends",
+    "key_features": [
+      "Unlimited 5% cashback on Flipkart and Myntra spends",
+      "4% cashback on Cleartrip spends"
+    ],
+    "ideal_for": "Flipkart and Myntra shoppers",
+    "primary_tags": [
+      "Flipkart",
+      "Myntra",
+      "Cashback",
+      "Cleartrip"
+    ],
+    "best_feature": "Unlimited 5% cashback on Flipkart and Myntra spends",
+    "airport_lounge": true,
+    "source": "https://www.flipkart.com"
+  },
+  {
+    "id": "idfc-first-select",
+    "card_name": "IDFC FIRST Select Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 100000,
+    "short_description": "Buy 1 Get 1 Free on Movie tickets and Reward points that never expire",
+    "key_features": [
+      "Buy 1 Get 1 Free on Movie tickets",
+      "Reward points that never expire"
+    ],
+    "ideal_for": "Moviegoers",
+    "primary_tags": [
+      "Movies",
+      "Rewards",
+      "Low Interest",
+      "Lifestyle"
+    ],
+    "best_feature": "Buy 1 Get 1 Free on Movie tickets",
+    "airport_lounge": true,
+    "source": "https://www.idfcfirstbank.com"
+  },
+  {
+    "id": "tata-neu-infinity",
+    "card_name": "Tata Neu Infinity HDFC Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 100000,
+    "short_description": "5% NeuCoins on Tata Neu app spends and 1.5% back on UPI spends",
+    "key_features": [
+      "5% NeuCoins on Tata Neu app spends",
+      "1.5% back on UPI spends"
+    ],
+    "ideal_for": "Tata Neu app users",
+    "primary_tags": [
+      "Tata Brands",
+      "UPI on Credit",
+      "BigBasket",
+      "1mg"
+    ],
+    "best_feature": "5% NeuCoins on Tata Neu app spends",
+    "airport_lounge": true,
+    "source": "https://www.tataneu.com"
+  },
+  {
+    "id": "icici-coral-rupay",
+    "card_name": "ICICI Coral RuPay Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "Link to UPI apps to pay at local shops using credit line",
+    "key_features": [
+      "Link to UPI apps to pay at local shops using credit line",
+      "No foreign transaction fees"
+    ],
+    "ideal_for": "UPI users",
+    "primary_tags": [
+      "UPI Payments",
+      "Small Spends",
+      "Movies",
+      "Entry Level"
+    ],
+    "best_feature": "Link to UPI apps to pay at local shops using credit line",
+    "airport_lounge": true,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "hdfc-infinia-metal",
+    "card_name": "HDFC Infinia Credit Card Metal Edition",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 300000,
+    "short_description": "1:1 Reward points for travel booking and unlimited global lounge access",
+    "key_features": [
+      "1:1 Reward points for travel booking",
+      "Unlimited global lounge access"
+    ],
+    "ideal_for": "Frequent travelers",
+    "primary_tags": [
+      "Luxury",
+      "Unlimited Lounge",
+      "Dining",
+      "Golf",
+      "Premium"
+    ],
+    "best_feature": "1:1 Reward points for travel booking",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "hdfc-diners-black",
+    "card_name": "HDFC Diners Club Black",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 175000,
+    "short_description": "5X Reward points on select brands and 1:1 redemption on miles/hotels",
+    "key_features": [
+      "5X Reward points on select brands",
+      "1:1 redemption on miles/hotels"
+    ],
+    "ideal_for": "Frequent travelers",
+    "primary_tags": [
+      "Travel",
+      "Dining",
+      "Unlimited Lounge",
+      "Golf"
+    ],
+    "best_feature": "5X Reward points on select brands",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "hdfc-regalia-gold",
+    "card_name": "HDFC Regalia Gold Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 100000,
+    "short_description": "Complimentary Club Vistara Silver tier and M&S/Myntra vouchers on milestones",
+    "key_features": [
+      "Complimentary Club Vistara Silver tier",
+      "M&S/Myntra vouchers on milestones"
+    ],
+    "ideal_for": "Frequent travelers",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Vouchers",
+      "Marks & Spencer"
+    ],
+    "best_feature": "Complimentary Club Vistara Silver tier",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "hdfc-swiggy",
+    "card_name": "Swiggy HDFC Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 30000,
+    "short_description": "10% Cashback on Swiggy, Food, Instamart, and Dineout",
+    "key_features": [
+      "10% Cashback on Swiggy, Food, Instamart, and Dineout",
+      "5% cashback on online shopping"
+    ],
+    "ideal_for": "Foodies",
+    "primary_tags": [
+      "Food Delivery",
+      "Swiggy Dineout",
+      "Instamart"
+    ],
+    "best_feature": "10% Cashback on Swiggy, Food, Instamart, and Dineout",
+    "airport_lounge": false,
+    "source": "https://www.swiggy.com"
+  },
+  {
+    "id": "hdfc-moneyback-plus",
+    "card_name": "HDFC MoneyBack+ Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "10X Reward Points on Amazon, BigBasket, Flipkart, and Reliance Smart",
+    "key_features": [
+      "10X Reward Points on Amazon, BigBasket, Flipkart, and Reliance Smart",
+      "2% fuel surcharge waiver"
+    ],
+    "ideal_for": "Online shoppers",
+    "primary_tags": [
+      "Entry Level",
+      "Amazon Shopping",
+      "Cashback"
+    ],
+    "best_feature": "10X Reward Points on Amazon, BigBasket, Flipkart, and Reliance Smart",
+    "airport_lounge": false,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "hdfc-indian-oil",
+    "card_name": "IndianOil HDFC Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "Earn up to 50 Liters of free fuel annually via fuel points",
+    "key_features": [
+      "Earn up to 50 Liters of free fuel annually via fuel points",
+      "2.5% surcharge waiver"
+    ],
+    "ideal_for": "Frequent fuel buyers",
+    "primary_tags": [
+      "Fuel",
+      "Petrol",
+      "Surcharge Waiver"
+    ],
+    "best_feature": "Earn up to 50 Liters of free fuel annually via fuel points",
+    "airport_lounge": false,
+    "source": "https://www.iocl.com"
+  },
+  {
+    "id": "axis-vistara-signature",
+    "card_name": "Axis Bank Vistara Signature",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 50000,
+    "short_description": "Complimentary Premium Economy ticket on joining and milestone flight tickets",
+    "key_features": [
+      "Complimentary Premium Economy ticket on joining",
+      "Milestone flight tickets"
+    ],
+    "ideal_for": "Vistara flyers",
+    "primary_tags": [
+      "Travel",
+      "Air Vistara",
+      "Free Flight"
+    ],
+    "best_feature": "Complimentary Premium Economy ticket on joining",
+    "airport_lounge": true,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "axis-my-zone",
+    "card_name": "Axis Bank My Zone Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 15000,
+    "short_description": "Buy 1 Get 1 Free on Movie tickets and annual SonyLIV subscription",
+    "key_features": [
+      "Buy 1 Get 1 Free on Movie tickets",
+      "Annual SonyLIV subscription"
+    ],
+    "ideal_for": "Moviegoers",
+    "primary_tags": [
+      "Movies",
+      "Swiggy",
+      "SonyLIV",
+      "Entry Level"
+    ],
+    "best_feature": "Buy 1 Get 1 Free on Movie tickets",
+    "airport_lounge": true,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "axis-neo",
+    "card_name": "Axis Bank Neo Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 15000,
+    "short_description": "10% off on Zomato, Myntra, and BookMyShow; 5% off on utility bills via Amazon Pay",
+    "key_features": [
+      "10% off on Zomato, Myntra, and BookMyShow",
+      "5% off on utility bills via Amazon Pay"
+    ],
+    "ideal_for": "Online shoppers",
+    "primary_tags": [
+      "Utility Bills",
+      "Zomato",
+      "Amazon",
+      "Discounts"
+    ],
+    "best_feature": "10% off on Zomato, Myntra, and BookMyShow",
+    "airport_lounge": false,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "icici-sapphiro",
+    "card_name": "ICICI Bank Sapphiro Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 80000,
+    "short_description": "Buy 1 Get 1 Free on Movie/Event tickets up to Rs. 500 twice a month",
+    "key_features": [
+      "Buy 1 Get 1 Free on Movie/Event tickets",
+      "Golf and travel benefits"
+    ],
+    "ideal_for": "Moviegoers",
+    "primary_tags": [
+      "BOGO Movies",
+      "Golf",
+      "Travel",
+      "Premium"
+    ],
+    "best_feature": "Buy 1 Get 1 Free on Movie/Event tickets",
+    "airport_lounge": true,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "icici-rubyx",
+    "card_name": "ICICI Bank Rubyx Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 50000,
+    "short_description": "Dual card variant with combined benefits",
+    "key_features": [
+      "Dual card variant with combined benefits",
+      "Golf and travel benefits"
+    ],
+    "ideal_for": "Frequent travelers",
+    "primary_tags": [
+      "Dual Card",
+      "Golf",
+      "Movies",
+      "Lifestyle"
+    ],
+    "best_feature": "Dual card variant with combined benefits",
+    "airport_lounge": true,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "icici-hpcl-super-saver",
+    "card_name": "ICICI HPCL Super Saver Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "5% savings on fuel at HPCL pumps and 5% back on grocery spends",
+    "key_features": [
+      "5% savings on fuel at HPCL pumps",
+      "5% back on grocery spends"
+    ],
+    "ideal_for": "Frequent fuel buyers",
+    "primary_tags": [
+      "Fuel",
+      "HPCL",
+      "Groceries",
+      "Departmental"
+    ],
+    "best_feature": "5% savings on fuel at HPCL pumps",
+    "airport_lounge": true,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "sbi-simply-click",
+    "card_name": "SBI SimplyClick Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "10X Reward points on online partners like Amazon, Apollo, and BookMyShow",
+    "key_features": [
+      "10X Reward points on online partners",
+      "1% fuel surcharge waiver"
+    ],
+    "ideal_for": "Online shoppers",
+    "primary_tags": [
+      "Online Shopping",
+      "Amazon",
+      "Apollo",
+      "Entry Level"
+    ],
+    "best_feature": "10X Reward points on online partners",
+    "airport_lounge": false,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "sbi-simply-save",
+    "card_name": "SBI SimplySave Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "10X Reward points on dining, groceries, and departmental store spends",
+    "key_features": [
+      "10X Reward points on dining, groceries, and departmental store spends",
+      "2.5% surcharge waiver"
+    ],
+    "ideal_for": "Dining and grocery shoppers",
+    "primary_tags": [
+      "Offline Shopping",
+      "Groceries",
+      "Dining",
+      "Departmental"
+    ],
+    "best_feature": "10X Reward points on dining, groceries, and departmental store spends",
+    "airport_lounge": false,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "sbi-elite",
+    "card_name": "SBI Card ELITE",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 60000,
+    "short_description": "Free Movie tickets worth Rs. 6,000 every year and Priority Pass membership",
+    "key_features": [
+      "Free Movie tickets worth Rs. 6,000 every year",
+      "Priority Pass membership"
+    ],
+    "ideal_for": "Luxury seekers",
+    "primary_tags": [
+      "Luxury",
+      "Movies",
+      "Lounge",
+      "Departmental"
+    ],
+    "best_feature": "Free Movie tickets worth Rs. 6,000 every year",
+    "airport_lounge": true,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "sbi-prime",
+    "card_name": "SBI Card PRIME",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 30000,
+    "short_description": "20 Reward points per Rs. 100 on birthday spends and 10 points on utility bills",
+    "key_features": [
+      "20 Reward points per Rs. 100 on birthday spends",
+      "10 points on utility bills"
+    ],
+    "ideal_for": "Birthday celebrators",
+    "primary_tags": [
+      "Lifestyle",
+      "Utility Bills",
+      "Dining",
+      "Groceries"
+    ],
+    "best_feature": "20 Reward points per Rs. 100 on birthday spends",
+    "airport_lounge": true,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "idfc-first-wealth",
+    "card_name": "IDFC FIRST Wealth Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 150000,
+    "short_description": "Lifetime Free card with 4 complimentary international and domestic lounge visits per quarter",
+    "key_features": [
+      "Lifetime Free card",
+      "4 complimentary international and domestic lounge visits per quarter"
+    ],
+    "ideal_for": "Wealthy individuals",
+    "primary_tags": [
+      "Luxury",
+      "Free Lounge",
+      "Low Interest",
+      "Lifetime Free"
+    ],
+    "best_feature": "Lifetime Free card",
+    "airport_lounge": true,
+    "source": "https://www.idfcfirstbank.com"
+  },
+  {
+    "id": "idfc-first-millennia",
+    "card_name": "IDFC FIRST Millennia Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "Lifetime Free card with 10X reward points on spends above Rs. 20,000 monthly",
+    "key_features": [
+      "Lifetime Free card",
+      "10X reward points on spends above Rs. 20,000 monthly"
+    ],
+    "ideal_for": "Young earners",
+    "primary_tags": [
+      "Gen-Z",
+      "Cashback",
+      "Movies",
+      "Lifetime Free"
+    ],
+    "best_feature": "Lifetime Free card",
+    "airport_lounge": false,
+    "source": "https://www.idfcfirstbank.com"
+  },
+  {
+    "id": "kotak-league-rupay",
+    "card_name": "Kotak League Platinum RuPay",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "Earn 8X reward points on select categories and link to UPI for merchant payments",
+    "key_features": [
+      "Earn 8X reward points on select categories",
+      "Link to UPI for merchant payments"
+    ],
+    "ideal_for": "UPI users",
+    "primary_tags": [
+      "UPI",
+      "Entry Level",
+      "Rewards"
+    ],
+    "best_feature": "Earn 8X reward points on select categories",
+    "airport_lounge": false,
+    "source": "https://www.kotak.com"
+  },
+  {
+    "id": "sc-digismart",
+    "card_name": "Standard Chartered DigiSmart",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "20% off on Myntra and 10% off on Zomato and Grofers monthly",
+    "key_features": [
+      "20% off on Myntra",
+      "10% off on Zomato and Grofers monthly"
+    ],
+    "ideal_for": "Online shoppers",
+    "primary_tags": [
+      "Online Discounts",
+      "Myntra",
+      "Zomato",
+      "Grofers"
+    ],
+    "best_feature": "20% off on Myntra",
+    "airport_lounge": false,
+    "source": "https://www.sc.com/in"
+  },
+  {
+    "id": "onecard-metal",
+    "card_name": "OneCard Metal Edition",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "Metal card with zero joining fee and 5X rewards on top 2 categories of the month",
+    "key_features": [
+      "Metal card with zero joining fee",
+      "5X rewards on top 2 categories of the month"
+    ],
+    "ideal_for": "Reward seekers",
+    "primary_tags": [
+      "App Based",
+      "Metal Card",
+      "Instant Rewards",
+      "Fractional Points"
+    ],
+    "best_feature": "Metal card with zero joining fee",
+    "airport_lounge": false,
+    "source": "https://www.getonecard.app"
+  },
+  {
+    "id": "scapia-federal",
+    "card_name": "Scapia Federal Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "Zero Forex markup on international spends and unlimited domestic lounge access",
+    "key_features": [
+      "Zero Forex markup on international spends",
+      "Unlimited domestic lounge access"
+    ],
+    "ideal_for": "International travelers",
+    "primary_tags": [
+      "Travel",
+      "Zero Forex",
+      "International Shopping",
+      "Lounge"
+    ],
+    "best_feature": "Zero Forex markup on international spends",
+    "airport_lounge": true,
+    "source": "https://www.federalbank.co.in"
+  },
+  {
+    "id": "eazydiner-indusind",
+    "card_name": "EazyDiner IndusInd Bank Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 50000,
+    "short_description": "Extra 25% off up to Rs. 1000 via EazyDiner and complimentary alcoholic beverage at select restaurants",
+    "key_features": [
+      "Extra 25% off up to Rs. 1000 via EazyDiner",
+      "Complimentary alcoholic beverage at select restaurants"
+    ],
+    "ideal_for": "Foodies",
+    "primary_tags": [
+      "Dining",
+      "EazyDiner",
+      "Alcohol",
+      "Foodie"
+    ],
+    "best_feature": "Extra 25% off up to Rs. 1000 via EazyDiner",
+    "airport_lounge": true,
+    "source": "https://www.indusind.com"
+  },
+  {
+    "id": "indusind-tiger",
+    "card_name": "IndusInd Tiger Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 40000,
+    "short_description": "Accelerated reward points on international spends and discounted golf games",
+    "key_features": [
+      "Accelerated reward points on international spends",
+      "Discounted golf games"
+    ],
+    "ideal_for": "Golf enthusiasts",
+    "primary_tags": [
+      "Travel",
+      "Lifestyle",
+      "Rewards"
+    ],
+    "best_feature": "Accelerated reward points on international spends",
+    "airport_lounge": true,
+    "source": "https://www.indusind.com"
+  },
+  {
+    "id": "sc-smart",
+    "card_name": "Standard Chartered Smart Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 30000,
+    "short_description": "Flat 2% cashback on all online spends up to Rs. 1000 per month",
+    "key_features": [
+      "Flat 2% cashback on all online spends",
+      "No merchant restrictions"
+    ],
+    "ideal_for": "Online shoppers",
+    "primary_tags": [
+      "Online Cashback",
+      "Simple Rewards",
+      "Entry Level"
+    ],
+    "best_feature": "Flat 2% cashback on all online spends",
+    "airport_lounge": false,
+    "source": "https://www.sc.com/in"
+  },
+  {
+    "id": "bob-eterna",
+    "card_name": "Bank of Baroda Eterna Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 100000,
+    "short_description": "15 Reward points per Rs. 100 spent on online shopping, travel, and dining",
+    "key_features": [
+      "15 Reward points per Rs. 100 spent on online shopping, travel, and dining",
+      "Complimentary lounge access"
+    ],
+    "ideal_for": "Online shoppers",
+    "primary_tags": [
+      "Shopping",
+      "Dining",
+      "Travel",
+      "High Rewards"
+    ],
+    "best_feature": "15 Reward points per Rs. 100 spent on online shopping, travel, and dining",
+    "airport_lounge": true,
+    "source": "https://www.bankofbaroda.in"
+  },
+  {
+    "id": "bob-irctc",
+    "card_name": "IRCTC BoB Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "Up to 40 reward points per Rs. 100 spent on train ticket bookings via IRCTC website",
+    "key_features": [
+      "Up to 40 reward points per Rs. 100 spent on train ticket bookings",
+      "1% fuel surcharge waiver"
+    ],
+    "ideal_for": "Train travelers",
+    "primary_tags": [
+      "Railway",
+      "IRCTC",
+      "Train Travel",
+      "Groceries"
+    ],
+    "best_feature": "Up to 40 reward points per Rs. 100 spent on train ticket bookings",
+    "airport_lounge": false,
+    "source": "https://www.bankofbaroda.in"
+  },
+  {
+    "id": "bob-radiance",
+    "card_name": "Bank of Baroda Radiance",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 250000,
+    "short_description": "Premium card with elite concierge services and multiple complimentary golf rounds",
+    "key_features": [
+      "Premium card with elite concierge services",
+      "Multiple complimentary golf rounds"
+    ],
+    "ideal_for": "High net worth individuals",
+    "primary_tags": [
+      "Luxury",
+      "Golf",
+      "Concierge",
+      "High Income"
+    ],
+    "best_feature": "Premium card with elite concierge services",
+    "airport_lounge": true,
+    "source": "https://www.bankofbaroda.in"
+  },
+  {
+    "id": "yes-reserv",
+    "card_name": "YES Bank Reserv Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 150000,
+    "short_description": "Subscription based milestones and 3 reward points per Rs. 200 on all offline spends",
+    "key_features": [
+      "Subscription based milestones",
+      "3 reward points per Rs. 200 on all offline spends"
+    ],
+    "ideal_for": "High net worth individuals",
+    "primary_tags": [
+      "Travel",
+      "Golf",
+      "Insurance",
+      "Rewards"
+    ],
+    "best_feature": "Subscription based milestones",
+    "airport_lounge": true,
+    "source": "https://www.yesbank.in"
+  },
+  {
+    "id": "federal-imperio",
+    "card_name": "Federal Bank Imperio Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 50000,
+    "short_description": "Complimentary BigBasket vouchers and 2X rewards on grocery and dining",
+    "key_features": [
+      "Complimentary BigBasket vouchers",
+      "2X rewards on grocery and dining"
+    ],
+    "ideal_for": "Grocery shoppers",
+    "primary_tags": [
+      "Lifestyle",
+      "Dining",
+      "Groceries"
+    ],
+    "best_feature": "Complimentary BigBasket vouchers",
+    "airport_lounge": true,
+    "source": "https://www.federalbank.co.in"
+  },
+  {
+    "id": "sbi-irctc-platinum",
+    "card_name": "IRCTC SBI Card (Platinum)",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "Up to 10% Value back on AC ticket bookings at IRCTC and 1% fuel surcharge waiver",
+    "key_features": [
+      "Up to 10% Value back on AC ticket bookings",
+      "1% fuel surcharge waiver"
+    ],
+    "ideal_for": "Train travelers",
+    "primary_tags": [
+      "Railways",
+      "IRCTC",
+      "Train Tickets",
+      "Fuel"
+    ],
+    "best_feature": "Up to 10% Value back on AC ticket bookings",
+    "airport_lounge": false,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "hdfc-marriott-bonvoy",
+    "card_name": "Marriott Bonvoy HDFC Bank Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 100000,
+    "short_description": "Complimentary 1 Night stay at Marriott hotels and Silver Elite status",
+    "key_features": [
+      "Complimentary 1 Night stay at Marriott hotels",
+      "Silver Elite status"
+    ],
+    "ideal_for": "Hotel stayers",
+    "primary_tags": [
+      "Hotels",
+      "Marriott",
+      "Travel",
+      "Luxury"
+    ],
+    "best_feature": "Complimentary 1 Night stay at Marriott hotels",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "axis-vistara-infinite",
+    "card_name": "Axis Bank Vistara Infinite",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 200000,
+    "short_description": "Complimentary Business Class ticket on joining and Gold Tier membership for Club Vistara",
+    "key_features": [
+      "Complimentary Business Class ticket on joining",
+      "Gold Tier membership for Club Vistara"
+    ],
+    "ideal_for": "Vistara flyers",
+    "primary_tags": [
+      "Travel",
+      "Business Class",
+      "Vistara"
+    ],
+    "best_feature": "Complimentary Business Class ticket on joining",
+    "airport_lounge": true,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "sbi-air-india-signature",
+    "card_name": "Air India SBI Signature",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 60000,
+    "short_description": "30 Reward points for every Rs. 100 spent on Air India tickets",
+    "key_features": [
+      "30 Reward points for every Rs. 100 spent on Air India tickets",
+      "Priority Pass membership"
+    ],
+    "ideal_for": "Air India flyers",
+    "primary_tags": [
+      "Air India",
+      "Miles",
+      "Travel"
+    ],
+    "best_feature": "30 Reward points for every Rs. 100 spent on Air India tickets",
+    "airport_lounge": true,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "icici-make-my-trip",
+    "card_name": "MakeMyTrip ICICI Platinum",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "My Cash rewards that can be used 100% to book flights and hotels on MMT",
+    "key_features": [
+      "My Cash rewards that can be used 100% to book flights and hotels on MMT",
+      "No foreign transaction fees"
+    ],
+    "ideal_for": "Travelers",
+    "primary_tags": [
+      "MMT",
+      "Hotels",
+      "Flights",
+      "Travel"
+    ],
+    "best_feature": "My Cash rewards that can be used 100% to book flights and hotels on MMT",
+    "airport_lounge": false,
+    "source": "https://www.icicibank.com"
+  },
+  {
+    "id": "hdfc-biz-black",
+    "card_name": "HDFC Biz Black Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 150000,
+    "short_description": "5X Rewards on Income Tax, GST, and Business utility payments",
+    "key_features": [
+      "5X Rewards on Income Tax, GST, and Business utility payments",
+      "Complimentary lounge access"
+    ],
+    "ideal_for": "Business owners",
+    "primary_tags": [
+      "Business Spends",
+      "Tax Payments",
+      "Vendor Pay",
+      "Lounge"
+    ],
+    "best_feature": "5X Rewards on Income Tax, GST, and Business utility payments",
+    "airport_lounge": true,
+    "source": "https://www.hdfcbank.com"
+  },
+  {
+    "id": "axis-biz-power",
+    "card_name": "Axis Bank Biz Power",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 50000,
+    "short_description": "Accelerated rewards on advertising and cloud server spends",
+    "key_features": [
+      "Accelerated rewards on advertising and cloud server spends",
+      "Complimentary lounge access"
+    ],
+    "ideal_for": "Business owners",
+    "primary_tags": [
+      "SME",
+      "Business Travel",
+      "Procurement"
+    ],
+    "best_feature": "Accelerated rewards on advertising and cloud server spends",
+    "airport_lounge": true,
+    "source": "https://www.axisbank.com"
+  },
+  {
+    "id": "sbi-card-prime-advocate",
+    "card_name": "SBI Card Prime for Advocates",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 30000,
+    "short_description": "Specialized card for lawyers with 10X rewards on office stationery and professional subscriptions",
+    "key_features": [
+      "Specialized card for lawyers",
+      "10X rewards on office stationery and professional subscriptions"
+    ],
+    "ideal_for": "Lawyers",
+    "primary_tags": [
+      "Legal Professional",
+      "Lifestyle",
+      "Rewards"
+    ],
+    "best_feature": "Specialized card for lawyers",
+    "airport_lounge": true,
+    "source": "https://www.sbicard.com"
+  },
+  {
+    "id": "jupiter-edge-cs",
+    "card_name": "Jupiter Edge CS Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 25000,
+    "short_description": "2% cashback on UPI spends and 5% on top spend categories via Jupiter App",
+    "key_features": [
+      "2% cashback on UPI spends",
+      "5% on top spend categories via Jupiter App"
+    ],
+    "ideal_for": "UPI users",
+    "primary_tags": [
+      "UPI",
+      "Cashback",
+      "App Based"
+    ],
+    "best_feature": "2% cashback on UPI spends",
+    "airport_lounge": false,
+    "source": "https://www.jupiter.money"
+  },
+  {
+    "id": "fi-federal-cc",
+    "card_name": "Fi-Federal Amp Credit Card",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 30000,
+    "short_description": "3% cashback on top 3 brands of your choice and zero hidden fees",
+    "key_features": [
+      "3% cashback on top 3 brands of your choice",
+      "Zero hidden fees"
+    ],
+    "ideal_for": "Cashback seekers",
+    "primary_tags": [
+      "Millennial",
+      "Rewards",
+      "Fintech"
+    ],
+    "best_feature": "3% cashback on top 3 brands of your choice",
+    "airport_lounge": true,
+    "source": "https://www.fi.money"
+  },
+  {
+    "id": "pnb-rakshak-rupay",
+    "card_name": "PNB Rakshak RuPay Platinum",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income_req": 20000,
+    "short_description": "High accident insurance coverage and UPI linking for defense employees",
+    "key_features": [
+      "High accident insurance coverage",
+      "UPI linking for defense employees"
+    ],
+    "ideal_for": "Defense personnel",
+    "primary_tags": [
+      "Defense Personnel",
+      "UPI",
+      "Insurance"
+    ],
+    "best_feature": "High accident insurance coverage",
+    "airport_lounge": true,
+    "source": "https://www.pnbindia.in"
+  }
+]

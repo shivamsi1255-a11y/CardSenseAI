@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Credit Card Advisor</title>
+    <meta name="description" content="AI-powered credit card advisor that calculates real savings based on your spending patterns.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="logo">
+                <span class="logo-icon">💳</span>
+                <h1>CardSense<span class="logo-dot">AI</span></h1>
+            </div>
+            <p class="tagline">Your Smart Credit Card Advisor</p>
+        </div>
+
+        <div class="sidebar-features">
+            <h2>What Makes This Smart?</h2>
+            <ul class="feature-list">
+                <li><span class="feature-icon">💰</span> Real Savings Calculation</li>
+                <li><span class="feature-icon">📈</span> ROI Analysis</li>
+                <li><span class="feature-icon">⏱️</span> Break-even Points</li>
+                <li><span class="feature-icon">🧩</span> Multi-card Strategies</li>
+                <li><span class="feature-icon">🇮🇳</span>  Indian Cards</li>
+            </ul>
+        </div>
+
+        <div class="sidebar-info">
+            <div class="info-card">
+                <h3>How it works</h3>
+                <ol>
+                    <li>Share your income</li>
+                    <li>Tell us your spending</li>
+                    <li>Get recommendations with <strong>real ₹ savings</strong></li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="sidebar-footer">
+            <button class="btn-reset" id="resetBtn" onclick="resetChat()">
+                <span class="btn-icon">🔄</span> Start Over
+            </button>
+        </div>
+    </aside>
+
+    <!-- Mobile Header -->
+    <header class="mobile-header">
+        <button class="menu-toggle" id="menuToggle" onclick="toggleSidebar()">☰</button>
+        <h1>💳 CardSense<span class="logo-dot">AI</span></h1>
+        <button class="btn-reset-mobile" onclick="resetChat()">🔄</button>
+    </header>
+
+    <!-- Main Chat Area -->
+    <main class="chat-main">
+        <div class="chat-container" id="chatContainer">
+            <!-- Messages rendered here -->
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-area">
+            <div class="input-wrapper">
+                <input
+                    type="text"
+                    id="userInput"
+                    placeholder="Type your response..."
+                    autocomplete="off"
+                    autofocus
+                >
+                <button class="send-btn" id="sendBtn" onclick="sendMessage()">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+            <p class="input-hint">Powered by Shivam Singh • Your data stays private</p>
+        </div>
+    </main>
+
+    <!-- Overlay for mobile sidebar -->
+    <div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="/static/script.js"></script>
+</body>
+</html>
