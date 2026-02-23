@@ -1,4 +1,4 @@
-# 💰 Smart Indian Credit Card Advisor (87+ Cards)
+# 💰 Smart Indian Credit Card Advisor (100+ Cards)
 
 Your intelligent assistant for discovering the best Indian credit cards based on **real annual savings** and **ROI calculations**.
 
@@ -18,7 +18,7 @@ Opens at: **http://localhost:8501** (or next available port)
 
 ## ✨ Features
 
-- 📊 **87+ Credit Cards**: Comprehensive database with joining/annual fees, features, and eligibility.
+- 📊 **100+ Credit Cards**: Comprehensive database with joining/annual fees, features, and eligibility.
 - 💰 **Savings Calculator**: Calculates exactly how much you'll save based on your specific spending.
 - 📈 **ROI Analysis**: Shows the return on your annual fee (e.g., "750% ROI").
 - ⏱️ **Break-even Tracking**: Tells you how many months it takes to recover the annual fee.
